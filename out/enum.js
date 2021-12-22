@@ -1,4 +1,3 @@
-"use strict";
 var Color;
 (function (Color) {
     Color[Color["red"] = 0] = "red";
@@ -15,3 +14,4 @@ var Shapes;
 })(Shapes || (Shapes = {}));
 let ShapeName = Shapes[5];
 console.log(ShapeName);
+//# sourceMappingURL=enum.js.map

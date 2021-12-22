@@ -1,4 +1,3 @@
-"use strict";
 const PrintPoint = (p) => {
     console.log(`The coordinates of point P are (${p.x},${p.y})`);
 };
@@ -12,3 +11,4 @@ class VirtualPoint {
 }
 const newVPoint = new VirtualPoint(12, 23);
 PrintPoint(newVPoint);
+//# sourceMappingURL=structuralType.js.map

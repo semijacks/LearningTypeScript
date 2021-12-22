@@ -8,3 +8,4 @@ class UserAccount {
 }
 const user = new UserAccount("Murphy", 10);
 console.log(user);
+//# sourceMappingURL=class.js.map

@@ -1,4 +1,3 @@
-"use strict";
 const getLength = (obj) => {
     console.log(obj.length);
     return obj.length;
@@ -16,3 +15,4 @@ const wrapInArray = (obj) => {
 };
 wrapInArray("hello");
 wrapInArray(stringArray);
+//# sourceMappingURL=types.js.map

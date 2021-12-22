@@ -9,3 +9,4 @@ const james = {
     lastName: "Silva",
 };
 WelcomePerson(james);
+//# sourceMappingURL=app.js.map
